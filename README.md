@@ -1,8 +1,9 @@
 ThyroSecure is a machine learning project aimed at early detection of thyroid issues (such as hyperthyroidism) and providing personalized dietary recommendations based on thyroid levels. The project uses supervised learning to analyze patient data and predict thyroid conditions, followed by generating tailored diet suggestions to help manage thyroid health.
 
 Project Structure-
-thy.py: This is the core Python script responsible for:
 
+thy.py: 
+This is the core Python script responsible for:
 Processing patient data.
 Detecting thyroid levels based on input data.
 Providing dietary recommendations according to thyroid conditions (normal, hyperthyroid, hypothyroid).
