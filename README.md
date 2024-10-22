@@ -16,7 +16,7 @@ Features-
 Thyroid Level Detection: Using patient data, the model predicts whether a patient has normal thyroid levels, hyperthyroidism, or hypothyroidism.
 Dietary Recommendations: Based on the prediction, the program provides customized dietary advice to help manage thyroid health. For example, patients with hyperthyroidism might receive recommendations to avoid iodine-rich foods.
 
-Usage
+Usage-
 
 Execute the thy.py script to detect thyroid levels and receive dietary recommendations:
 
